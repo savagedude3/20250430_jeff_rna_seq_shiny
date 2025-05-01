@@ -1,0 +1,12 @@
+name: 20250430_jeff_rna_seq_shiny
+title: 20250430_jeff_rna_seq_shiny
+username: savagej3
+account: savagej3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14662935
+bundleId: 10213489
+url: https://savagej3.shinyapps.io/20250430_jeff_rna_seq_shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
